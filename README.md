@@ -28,4 +28,4 @@ A aplicação está publicada e pronta para ser utilizada. Você pode interagir 
 🔗 **[Acessar Blood Match](https://bloodmatch-ldov.vercel.app/)**
 
 ---
-<p align="center">Desenvolvido com 🧠 e 🧪 por Rafael Ldo</p>
+<p align="center">Developed by <b>LDOV AI & IT Solutions</b> </p>
